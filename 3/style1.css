@@ -1,0 +1,12 @@
+.bear {
+    font-weight: bold;
+}
+.s1 {
+    font-style: italic;
+}
+.s2 {
+    text-decoration: underline;
+}
+.s3 {
+    text-decoration: line-through;
+}
